@@ -44,9 +44,11 @@ src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg"/>
 
 <h2>Github stats:</h2> 
 
-|![Matias github stats](https://github-readme-stats.vercel.app/api?username=mtsortiz&show_icons=true&theme=tokyonight) | ![Matias GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mtsortiz&theme=tokyonight) |
+[![](https://github-readme-stats.vercel.app/api?username=mtsortiz&show_icons=true&theme=tokyonight)](https://github.com/mtsortiz)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mtsortiz&theme=tokyonight)](https://github.com/mtsortiz)
 </div>
 
 <br>
-<!--horizontal divider(gradiant)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
