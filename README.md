@@ -44,8 +44,7 @@ src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg"/>
 
 <h2>Github stats:</h2> 
 
-![Matias github stats](https://github-readme-stats.vercel.app/api?username=mtsortiz&show_icons=true&theme=tokyonight) 
-![Matias GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mtsortiz&theme=tokyonight)
+|![Matias github stats](https://github-readme-stats.vercel.app/api?username=mtsortiz&show_icons=true&theme=tokyonight) | ![Matias GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mtsortiz&theme=tokyonight) |
 </div>
 
 <br>
