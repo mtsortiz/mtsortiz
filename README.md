@@ -19,7 +19,7 @@ I am an advanced Systems Engineering student with a strong interest in backend d
 - Outside of tech, I enjoy 🏋️‍♂️ hitting the gym, 🎮 gaming, 🎵 listening to music, and 💬 connecting with people who love do sports and go out.
 
 
-<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Skills </h2>
 <h3>Languages</h3>
 <a href= https://github.com/mtsortiz?tab=repositories&q=&type=&language=java&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/mtsortiz?tab=repositories&q=&type=&language=python&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -32,8 +32,10 @@ I am an advanced Systems Engineering student with a strong interest in backend d
 <a href= https://github.com/mtsortiz?tab=repositories&q=&type=&language=git&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/matiasnicolasortiz'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href='mailto:matiasnortiz.dev@gmail.com'> <img width = '30px' align= 'center' 
+src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg"/></a> 
 <a href = 'https://www.instagram.com/mati.ortiz01'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://www.x.com/mortiz_01'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <!--<a href = 'http://aditya664.me/'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>--> 
@@ -42,8 +44,10 @@ I am an advanced Systems Engineering student with a strong interest in backend d
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=mtsortiz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mtsortiz)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mtsortiz&theme=material-palenight)](https://github.com/mtsortiz)
+[![](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight)](https://github.com/mtsortiz)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight)](https://github.com/mtsortiz)
+
+<br>
 </div>
 
 <!--horizontal divider(gradiant)-->
