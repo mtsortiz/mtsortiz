@@ -18,8 +18,6 @@ I am an advanced Systems Engineering student with a strong interest in backend d
 - 👯 I’m open to collaborating on backend, mobile or scraping-focused projects.
 - Outside of tech, I enjoy 🏋️‍♂️ hitting the gym, 🎮 gaming, 🎵 listening to music, and 💬 connecting with people who love do sports and go out.
 
-<br>
-<br>
 
 <h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <h3>Languages</h3>
@@ -33,8 +31,6 @@ I am an advanced Systems Engineering student with a strong interest in backend d
 <a href= https://github.com/mtsortiz?tab=repositories&q=&type=&language=spring&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
 <a href= https://github.com/mtsortiz?tab=repositories&q=&type=&language=git&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
-<br>
-<br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/matiasnicolasortiz'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -43,8 +39,6 @@ I am an advanced Systems Engineering student with a strong interest in backend d
 <!--<a href = 'http://aditya664.me/'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>--> 
 <a href = 'https://www.github.com/mtsortiz'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
-<br>
-<br>
 
 <h2>Github stats:</h2> 
 
