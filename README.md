@@ -7,7 +7,7 @@
 <br>
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me</h2>
 
-I am an advanced Systems Engineering student with a strong interest in backend development and mobile apps. I work as a Java developer and have experience building Android applications with Kotlin. Lately, I’ve been expanding my skills in Python to create SaaS tools and perform web scraping for real-world data.I am an advanced Systems Engineering student with a strong interest in backend development and mobile apps. I work as a Java developer and have experience building Android applications with Kotlin. Lately, I’ve been expanding my skills in Python to create SaaS tools and perform web scraping for real-world data.
+I am an advanced Systems Engineering student with a strong interest in backend development and mobile apps. I work as a Java developer and have experience building Android applications with Kotlin. Lately, I’ve been expanding my skills in Python to create SaaS tools and perform web scraping for real-world data.
 - 🌱 I’m currently learning:
     - FastAPI & Python for backend APIs
     - Web scraping and automation
