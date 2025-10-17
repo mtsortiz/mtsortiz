@@ -16,7 +16,7 @@ I am an advanced Systems Engineering student with a strong interest in backend d
     - 📱 A Kotlin-based product inventory app
     - 🎧 A music search app with lyrics and artist info
     - 🏦 An ATM - Bank Employee simulator app
-    -🍬 A Candy Crash Game Version
+    - 🍬 A Candy Crash Game Version
 - 👯 I’m open to collaborating on backend, mobile or scraping-focused projects.
 - Outside of tech, I enjoy 🏋️‍♂️ hitting the gym, 🎮 gaming, 🎵 listening to music, and 💬 connecting with people who love do sports and go out.
 - 📫 Reach out to me at: <a href="mailto:matiasnortiz.dev@gmail.com">matiasnortiz.dev@gmail.com</a>
